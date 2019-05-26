@@ -26,6 +26,3 @@ You have to install arduino-cli
 
 `make configure #to automatically find the right board port`</br>
 `make`
-
-
-open the root file of your project to correct and type `norminette`, select errors to correct.
